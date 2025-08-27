@@ -1,9 +1,11 @@
-# TO DO LIST APP
-# To-Do Starter App
+      # To‑Do List Starter 
 
-A simple to-do list app built with HTML, CSS, and JavaScript.
+A minimal starter app using HTML, CSS, and JavaScript.
 
-## How to Contribute
+## Setup
 
-1. Fork this repository
+1. Fork this repository.
 2. Clone your fork:
+   ```bash
+   git clone https://github.com/Akanksha-Khamkar/To-Do-List.git                                                                                  
+   C:\todo-app-starter 
