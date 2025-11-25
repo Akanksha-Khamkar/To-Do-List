@@ -8,4 +8,7 @@ A minimal starter app using HTML, CSS, and JavaScript.
 2. Clone your fork:
    ```bash
    git clone https://github.com/Akanksha-Khamkar/To-Do-List.git                                                                                  
-   C:\todo-app-starter 
+   C:\todo-app-starter
+
+
+
